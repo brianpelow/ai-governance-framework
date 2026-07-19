@@ -18,6 +18,19 @@ it ignored the document's own scope statement.
 The framework tells you what to build. These notes are about what makes the
 thing you built still be there eighteen months later.
 
+## The open problems
+
+[UNSOLVED.md](./UNSOLVED.md) &mdash; Six problems in AI replay I cannot fully
+solve, and what would have to be true to close each one.
+
+Corpus versioning for retrieval. Model non-determinism. Hosted models you
+cannot retain. Agentic trajectories. Artifact rot across a seven-year window.
+And the sharpest one: a complete decision record is also a comprehensive PII
+store, which puts retention obligations in direct tension with erasure rights.
+
+Governance credibility is built on precision about limits, not confidence
+about coverage.
+
 ## Core conviction
 
 1:1 replay is paramount to staying in business.
