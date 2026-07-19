@@ -6,6 +6,18 @@
 
 [AI-GOVERNANCE.md](./AI-GOVERNANCE.md)
 
+## Field notes
+
+[FIELD-NOTES.md](./FIELD-NOTES.md) &mdash; What building the controls taught me.
+
+Four lessons from implementing this framework as running tooling, including two
+places the tools corrected me: a scanner that graded itself F on its own test
+fixtures, and an impact model that bound every system in the inventory because
+it ignored the document's own scope statement.
+
+The framework tells you what to build. These notes are about what makes the
+thing you built still be there eighteen months later.
+
 ## Core conviction
 
 1:1 replay is paramount to staying in business.
